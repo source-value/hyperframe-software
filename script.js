@@ -125,7 +125,7 @@ var commandStart = ['Performing DNS Lookups for',
                 'Requesting Authorization From : ', 
                 'wget -a -t ', 
                 'tar -xzf ', 
-                'log '
+                'log ',
                 'Entering address ', 
                 'Deobfuscation Started of ',
                  'Downloading '],
